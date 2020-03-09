@@ -132,6 +132,20 @@ class View extends Component {
                         <div className="agileGrid">
                             <Module value={["smallModule", "IP"]} row="3" col="1 / 4" height="25px"/>
                             <Module value={["smallModule", "SB"]} row="3" col="4" height="25px"/>
+                            <Module value={["smallModule", "CS"]} row="4" col="6 / 26" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="5" col="6 / 14" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="5" col="18 / 26" height="25px" />
+                            <Module value={["smallModule", "SB"]} row="3" col="20 / 26" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="9" col="9 / 24" height="25px" />
+                            <Module value={["smallModule", "CS"]} row="4" col="27 / 49" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="5" col="27 / 35" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="6" col="34 / 42" height="25px" />
+                            <Module value={["smallModule", "SB"]} row="3" col="43 / 49" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="9" col="30 / 53" height="25px" />
+                            <Module value={["smallModule", "CS"]} row="4" col="53 / 71" height="25px" />
+                            <Module value={["smallModule", "MPD"]} row="5" col="53 / 61" height="25px" />
+                            <Module value={["smallModule", "CP"]} row="3" col="65 / 71" height="25px" />
+                            <Module value={["smallModule", "SB"]} row="3" col="49 / 54" height="25px" />
                         </div>
                     </div>
 
